@@ -1,6 +1,6 @@
 # Nim Bindings for rlImgui
 
-This repository contains Nim bindings for the rlImgui library, enabling developers to integrate Dear ImGui with raylib applications in Nim projects.
+This repository contains Nim bindings for the [https://github.com/raylib-extras/rlImGui/tree/main](rlImgui) library, enabling developers to integrate Dear ImGui with raylib applications in Nim projects.
 
 ## Introduction
 
@@ -9,14 +9,11 @@ rlImgui is a lightweight binding of the original rlImgui library designed to fac
 ### Prerequisites
 
 - Ensure to use the `--backend:cpp` option when compiling your Nim code.
+- Need to install [https://github.com/planetis-m/naylib](naylib) into your project
 - No need to install imgui for Nim, as it's already integrated.
 - Refer to the rlImgui documentation for detailed information on integrating ImGui with raylib.
 
 ## Features
-
-- Simplified API for using Dear ImGui with raylib applications in Nim.
-- Support for setting up ImGui with either a dark or light default theme.
-- Functions for reloading fonts, setting up backends, and initializing ImGui.
 - Direct integration with raylib for rendering ImGui content.
 
 ## Usage
