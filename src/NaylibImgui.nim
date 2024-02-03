@@ -1,7 +1,7 @@
 import imgui
 import raylib
 import os
-
+export imgui
 # nim by default looks into the cache folder for the header files
 # with this we make nim to search into our project folder for the header file instead
 const rlImguiPath = currentSourcePath.parentDir & "/NaylibImgui/rlImGui/rlImGui.h" 
