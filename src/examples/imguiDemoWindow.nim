@@ -3,7 +3,7 @@ import raylib
 import imgui
 
 
-initWindow(730,600,"Demo window") ## creates the raylib window
+initWindow(720,480,"Demo window") ## creates the raylib window
 rlImGuiSetup() ## sets imgui with dark theme
 var open = true
 while not windowShouldClose():
