@@ -45,8 +45,7 @@ while not windowShouldClose():
 rlImGuiShutdown()
 closeWindow()
 ```
-![raylib window](src/NaylibImgui/screenshots/example.png)
-
+![alt raylib window]("src/NaylibImgui/screenshots/example.png")
 
 ## Documentation
 
