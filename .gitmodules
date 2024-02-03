@@ -1,3 +1,6 @@
 [submodule "rlImGui"]
 	path = rlImGui
 	url = https://github.com/raylib-extras/rlImGui.git
+[submodule "src/NaylibImgui/rlImGui"]
+	path = src/NaylibImgui/rlImGui
+	url = https://github.com/raylib-extras/rlImGui.git
