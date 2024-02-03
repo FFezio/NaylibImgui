@@ -2,7 +2,7 @@
 
 This repository contains Nim bindings for the [rlImgui](https://github.com/raylib-extras/rlImGui/tree/main) library, enabling developers to integrate Dear ImGui with raylib applications in Nim projects.
 ## Instalation
-```nimble install https://github.com/FFezio/NaylibImgui.git```
+`nimble install https://github.com/FFezio/NaylibImgui.git`
 ## Introduction
 
 rlImgui is a lightweight binding of the original rlImgui library designed to facilitate the integration of Dear ImGui (a popular GUI library) with raylib (a simple and easy-to-use game development framework). These bindings provide Nim developers with access to the powerful features of Dear ImGui within their raylib applications.
@@ -11,7 +11,7 @@ rlImgui is a lightweight binding of the original rlImgui library designed to fac
 
 - Ensure to use the `--backend:cpp` option when compiling your Nim code.
 - Need to install [naylib](https://github.com/planetis-m/naylib) (nim bindings for raylib) into your project
-- No need to install imgui for Nim, as it's already integrated.
+- No need to install [imgui](https://github.com/nimgl/imgui) bindings for Nim, as it's already integrated.
 - Refer to the rlImgui documentation for detailed information on integrating ImGui with raylib.
 
 ## Features
