@@ -1,7 +1,7 @@
 # Nim Bindings for rlImgui
 
 This repository contains Nim bindings for the [rlImgui](https://github.com/raylib-extras/rlImGui/tree/main) library, enabling developers to integrate Dear ImGui with raylib applications in Nim projects.
-## Instalation
+## Installation
 `nimble install https://github.com/FFezio/NaylibImgui.git`
 ## Introduction
 
