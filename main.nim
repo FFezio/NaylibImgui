@@ -1,6 +1,7 @@
 import raylib
 import imgui
 import src/NaylibImgui
+import src
 initWindow(730,600,"hello!")
 
 rlImGuiSetup(true)
