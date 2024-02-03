@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "A.Fadryel"
 description   = "rlImgui bindings for nim!"
-license       = "zlib"
+license       = "MIT"
 srcDir        = "src"
 
 
