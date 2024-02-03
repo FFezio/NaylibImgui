@@ -59,7 +59,3 @@ Contributions to this project are welcome! If you find any issues or would like 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Your README is already well-structured and provides clear instructions for users. Keep up the good work!
